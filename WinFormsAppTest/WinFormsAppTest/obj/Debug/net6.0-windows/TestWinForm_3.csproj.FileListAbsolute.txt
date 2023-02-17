@@ -1,0 +1,17 @@
+C:\11a\WinFormsAppTest\WinFormsAppTest\obj\Debug\net6.0-windows\TestWinForm_3.csproj.AssemblyReference.cache
+C:\11a\WinFormsAppTest\WinFormsAppTest\obj\Debug\net6.0-windows\WinFormsAppTest.Form1.resources
+C:\11a\WinFormsAppTest\WinFormsAppTest\obj\Debug\net6.0-windows\TestWinForm_3.csproj.GenerateResource.cache
+C:\11a\WinFormsAppTest\WinFormsAppTest\obj\Debug\net6.0-windows\TestWinForm_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\11a\WinFormsAppTest\WinFormsAppTest\obj\Debug\net6.0-windows\TestWinForm_3.AssemblyInfoInputs.cache
+C:\11a\WinFormsAppTest\WinFormsAppTest\obj\Debug\net6.0-windows\TestWinForm_3.AssemblyInfo.cs
+C:\11a\WinFormsAppTest\WinFormsAppTest\obj\Debug\net6.0-windows\TestWinForm_3.csproj.CoreCompileInputs.cache
+C:\11a\WinFormsAppTest\WinFormsAppTest\bin\Debug\net6.0-windows\TestWinForm_3.exe
+C:\11a\WinFormsAppTest\WinFormsAppTest\bin\Debug\net6.0-windows\TestWinForm_3.deps.json
+C:\11a\WinFormsAppTest\WinFormsAppTest\bin\Debug\net6.0-windows\TestWinForm_3.runtimeconfig.json
+C:\11a\WinFormsAppTest\WinFormsAppTest\bin\Debug\net6.0-windows\TestWinForm_3.dll
+C:\11a\WinFormsAppTest\WinFormsAppTest\bin\Debug\net6.0-windows\TestWinForm_3.pdb
+C:\11a\WinFormsAppTest\WinFormsAppTest\obj\Debug\net6.0-windows\TestWinForm_3.dll
+C:\11a\WinFormsAppTest\WinFormsAppTest\obj\Debug\net6.0-windows\refint\TestWinForm_3.dll
+C:\11a\WinFormsAppTest\WinFormsAppTest\obj\Debug\net6.0-windows\TestWinForm_3.pdb
+C:\11a\WinFormsAppTest\WinFormsAppTest\obj\Debug\net6.0-windows\TestWinForm_3.genruntimeconfig.cache
+C:\11a\WinFormsAppTest\WinFormsAppTest\obj\Debug\net6.0-windows\ref\TestWinForm_3.dll
